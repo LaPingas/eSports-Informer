@@ -1,6 +1,8 @@
 ﻿body {
     font-family: 'Varela Round', sans-serif;
-    background-image: url(Background.png);
+    color: #ff0000;
+    background-image: url(Background2.gif);
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
