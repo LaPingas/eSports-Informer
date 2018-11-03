@@ -1,2 +1,2 @@
 # eSports-Informer
-ayyyyyyyyyy lmao
+https://lapingas.github.io/eSports-Informer/
