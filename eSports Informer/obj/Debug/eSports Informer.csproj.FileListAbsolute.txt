@@ -1,0 +1,290 @@
+F:\eSports Informer\eSports Informer\bin\eSports Informer.dll.config
+F:\eSports Informer\eSports Informer\bin\eSports Informer.dll
+F:\eSports Informer\eSports Informer\bin\eSports Informer.pdb
+F:\eSports Informer\eSports Informer\bin\roslyn\csc.exe
+F:\eSports Informer\eSports Informer\bin\roslyn\csc.exe.config
+F:\eSports Informer\eSports Informer\bin\roslyn\csc.rsp
+F:\eSports Informer\eSports Informer\bin\roslyn\csi.exe
+F:\eSports Informer\eSports Informer\bin\roslyn\csi.exe.config
+F:\eSports Informer\eSports Informer\bin\roslyn\csi.rsp
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\eSports Informer\eSports Informer\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.AppContext.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Collections.Immutable.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Console.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Diagnostics.Process.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.IO.Compression.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.IO.Pipes.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Reflection.Metadata.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Security.AccessControl.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Security.Claims.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Security.Principal.Windows.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Threading.Thread.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.ValueTuple.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Xml.XmlDocument.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Xml.XPath.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\eSports Informer\eSports Informer\bin\roslyn\vbc.exe
+F:\eSports Informer\eSports Informer\bin\roslyn\vbc.exe.config
+F:\eSports Informer\eSports Informer\bin\roslyn\vbc.rsp
+F:\eSports Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe
+F:\eSports Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe.config
+F:\eSports Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\eSports Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\eSports Informer\eSports Informer\obj\Debug\eSports Informer.csprojAssemblyReference.cache
+F:\eSports Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CoreCompileInputs.cache
+F:\eSports Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CopyComplete
+F:\eSports Informer\eSports Informer\obj\Debug\eSports Informer.dll
+F:\eSports Informer\eSports Informer\obj\Debug\eSports Informer.pdb
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.dll.config
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.pdb
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.exe
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.exe.config
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.rsp
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.exe
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.exe.config
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.rsp
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.AppContext.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Collections.Immutable.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Console.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.Process.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.Compression.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.Pipes.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Reflection.Metadata.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.AccessControl.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Claims.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Principal.Windows.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Threading.Thread.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.ValueTuple.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.exe
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.exe.config
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.rsp
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe.config
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csprojAssemblyReference.cache
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CoreCompileInputs.cache
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CopyComplete
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.dll
+D:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.pdb
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.dll.config
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.pdb
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.exe
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.exe.config
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.rsp
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.exe
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.exe.config
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.rsp
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.AppContext.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Collections.Immutable.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Console.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.Process.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.Compression.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.Pipes.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Reflection.Metadata.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.AccessControl.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Claims.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Principal.Windows.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Threading.Thread.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.ValueTuple.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XmlDocument.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.exe
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.exe.config
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.rsp
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe.config
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csprojAssemblyReference.cache
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CoreCompileInputs.cache
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CopyComplete
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.dll
+F:\לימודים!!1\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.pdb
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.dll.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\eSports Informer.pdb
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csc.rsp
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\csi.rsp
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.AppContext.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Console.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\vbc.rsp
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csprojAssemblyReference.cache
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CoreCompileInputs.cache
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CopyComplete
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\eSport Informer\eSports Informer\obj\Debug\eSports Informer.pdb
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\eSports Informer.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\eSports Informer.pdb
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\csc.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\csc.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\csc.rsp
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\csi.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\csi.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\csi.rsp
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.AppContext.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Console.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\vbc.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\vbc.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\vbc.rsp
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CoreCompileInputs.cache
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csproj.CopyComplete
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\obj\Debug\eSports Informer.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\obj\Debug\eSports Informer.pdb
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\eSports Informer.dll.config

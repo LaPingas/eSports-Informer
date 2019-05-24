@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="eSports_Informer.MasterPage" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>eSports Informer</title>
+        <meta charset="utf-8" />
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+        <link rel="stylesheet" href="../Design/Style.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <ul class="navBarUL">
+        <li class="navBarLI"><a href="Index.aspx" class="navBarLI-A">Home</a></li>
+        <%
+            if (Session["username"] == null)
+            {
+                Response.Write("<li class=\"navBarLI\"><a href=\"Login.aspx\" class=\"navBarLI-A\">Login</a></li>");
+                Response.Write("<li class=\"navBarLI\"><a href=\"Register.aspx\" class=\"navBarLI-A\">Register</a></li>");
+                Response.Write("<li class=\"navBarLI\"><a href=\"ForgotPassword.aspx\" class=\"navBarLI-A\">Forgot Password</a></li>");
+            }
+            else
+            {
+                Response.Write("<li class=\"navBarLI\"><a href=\"Logout.aspx\" class=\"navBarLI-A\">Logout</a></li>");
+                Response.Write("<li class=\"navBarLI\"><a href=\"UserInfo.aspx\" class=\"navBarLI-A\">User Info</a></li>");
+                Response.Write("<li class=\"navBarLI\"><a href=\"UpdateInfo.aspx\" class=\"navBarLI-A\">Update Info</a></li>");
+                if (((User)Session["user"]).IsAdmin == "Yes")
+                {
+                    Response.Write("<li class=\"navBarLI\"><a href=\"UsersTable.aspx\" class=\"navBarLI-A\">Users Table</a></li>");
+                }
+                else
+                {
+                    Response.Write("<li class=\"navBarLI\"><a href=\"Promotion.aspx\" class=\"navBarLI-A\">Promotion</a></li>");
+                }
+            }
+        %>
+        <li class="navBarLI"><a href="About.aspx" class="navBarLI-A">About</a></li>
+        <li class="navBarLI"><a href="AdditionalLinks.aspx" class="navBarLI-A">Related Sites</a></li>
+        <li class="navBarLI"><a href="Poll.aspx" class="navBarLI-A">Poll</a></li>
+    </ul> <br />
+    <div style="text-align: center"><img src="../Design/Banner.png" alt="Banner" /></div>
+<asp:ContentPlaceHolder ID="body" runat="server">
+</asp:ContentPlaceHolder>
+</body>
+</html>
