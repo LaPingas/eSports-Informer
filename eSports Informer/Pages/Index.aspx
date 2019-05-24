@@ -2,11 +2,11 @@
 
 <asp:Content runat="server" ID="HeadContent" ContentPlaceHolderId="head"></asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderId="body">
-<%
-    int visits = (int)Application["visits"];
-    visits++;
-    Application["visits"] = visits;
-%>
+    <%
+        int visits = (int)Application["visits"];
+        visits++;
+        Application["visits"] = visits;
+    %>
     <div style="text-align: center">
     <h1>Welcome to eSports Informer!</h1>
     <%

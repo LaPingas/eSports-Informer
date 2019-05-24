@@ -28,6 +28,7 @@
                 if (((User)Session["user"]).IsAdmin == "Yes")
                 {
                     Response.Write("<li class=\"navBarLI\"><a href=\"UsersTable.aspx\" class=\"navBarLI-A\">Users Table</a></li>");
+                    Response.Write("<li class=\"navBarLI\"><a href=\"SearchUsers.aspx\" class=\"navBarLI-A\">Search Users</a></li>");
                 }
                 else
                 {

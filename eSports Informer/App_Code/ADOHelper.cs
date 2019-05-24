@@ -31,6 +31,7 @@ public static class ADOHelper
         catch (Exception e)
         {
             error = e.Message;
+            connection.Close();
         }
     }
     /// <summary>
@@ -102,6 +103,95 @@ public static class ADOHelper
     }
 
     /// <summary>
+    /// Find users with specific values
+    /// </summary>
+    /// <returns> Users with specific values </returns>
+    public static string FindUsers(string password = "", string email = "", int gender = -1)
+    {
+        connection.Open();
+        string foundUsers;
+        if (password != "")
+        {
+            // The SQL command
+            string select = $"SELECT * FROM {TABLE_NAME} WHERE password = '{password}'";
+            SqlCommand command = new SqlCommand(select, connection);
+            SqlDataReader data = command.ExecuteReader();
+            if (data.Read())
+            {
+                foundUsers = data.GetString(0) + ", ";
+                while (data.Read())
+                {
+                    foundUsers += data.GetString(0) + ", ";
+                }
+                if (foundUsers.Length > 0)
+                {
+                    foundUsers = foundUsers.Remove(foundUsers.Length - 2, 2);
+                }
+                connection.Close();
+                return foundUsers;
+            }
+            else
+            {
+                connection.Close();
+                return null;
+            }
+        }
+        if (email != "")
+        {
+            // The SQL command
+            string select = $"SELECT * FROM {TABLE_NAME} WHERE email = '{email}'";
+            SqlCommand command = new SqlCommand(select, connection);
+            SqlDataReader data = command.ExecuteReader();
+            if (data.Read())
+            {
+                foundUsers = data.GetString(0) + ", ";
+                while (data.Read())
+                {
+                    foundUsers += data.GetString(0) + ", ";
+                }
+                if (foundUsers.Length > 0)
+                {
+                    foundUsers = foundUsers.Remove(foundUsers.Length - 2, 2);
+                }
+                connection.Close();
+                return foundUsers;
+            }
+            else
+            {
+                connection.Close();
+                return null;
+            }
+        }
+        if (gender != -1)
+        {
+            // The SQL command
+            string select = $"SELECT * FROM {TABLE_NAME} WHERE gender = '{gender}'";
+            SqlCommand command = new SqlCommand(select, connection);
+            SqlDataReader data = command.ExecuteReader();
+            if (data.Read())
+            {
+                foundUsers = data.GetString(0) + ", ";
+                while (data.Read())
+                {
+                    foundUsers += data.GetString(0) + ", ";
+                }
+                if (foundUsers.Length > 0)
+                {
+                    foundUsers = foundUsers.Remove(foundUsers.Length - 2, 2);
+                }
+                connection.Close();
+                return foundUsers;
+            }
+            else
+            {
+                connection.Close();
+                return null;
+            }
+        }
+        return null;
+    }
+
+    /// <summary>
     /// Makes a dataset reference for the SQL command result
     /// </summary>
     /// <param name="sql"> SQL Query </param>
@@ -143,14 +233,14 @@ public static class ADOHelper
 
         // Setting table header
         resultStr += "<table border='1' align='center' >";
-        resultStr += "<tr><th>Username</th><th>Password</th><th>Email</th><th>Gender</th><th>Region</th><th>Games</th><th>Admin</th></tr>";
+        resultStr += "<tr><th>Username</th><th>Password</th><th>Email</th><th>Gender</th><th>Region</th><th>Games</th><th>Admin</th><th>Delete?</th><th>Promote</th></tr>";
 
         // Scanning all rows of the 1st table in the DataSet (Tables[0])
         for (int k = 0; k < ds.Tables[0].Rows.Count; k++)
         {
             row = ds.Tables[0].Rows[k];
             resultStr += "<tr>";
-            resultStr += "<td>" + row["username"] + "</td>";
+            resultStr += "<td name=\"username\">" + row["username"] + "</td>";
             resultStr += "<td>" + row["password"] + "</td>";
             resultStr += "<td>" + row["email"] + "</td>";
             if ((bool)row["gender"])
@@ -160,6 +250,9 @@ public static class ADOHelper
             resultStr += "<td>" + row["region"] + "</td>";
             resultStr += "<td>" + row["games"].ToString().Replace(",", ", ") + "</td>";
             resultStr += "<td>" + row["isAdmin"] + "</td>";
+            resultStr += "<td>" + $"<input type=\"checkbox\" name=\"delete\" value=\"{row["username"]}\" />" + "</td>";
+            string value = ReadUserData(row["username"].ToString()).IsAdmin == "Yes" ? "checked" : "";
+            resultStr += "<td>" + $"<input type=\"checkbox\" name=\"promote\" value=\"{row["username"]}\" {value} />" + "</td>";
             resultStr += "</tr>";
         }
         resultStr += "</table>";
@@ -232,7 +325,7 @@ public static class ADOHelper
     }
 
     /// <summary>
-    /// Promote a user to a promotion
+    /// Promote a user to an admin
     /// </summary>
     /// <param name="user"> The given user </param>
     public static void Promotion(this User user)
@@ -242,12 +335,22 @@ public static class ADOHelper
     }
 
     /// <summary>
+    /// Unpromote a user
+    /// </summary>
+    /// <param name="user"> The given user </param>
+    public static void Unpromotion(this User user)
+    {
+        string update = $"UPDATE {TABLE_NAME} SET isAdmin = 0 WHERE username = '{user.Username}'";
+        Execute(update);
+    }
+
+    /// <summary>
     /// Deletes the user from the database
     /// </summary>
     /// <param name="username"> The given username </param>
     public static void Delete(string username)
     {
-        string delete = $"DELETE FROM {TABLE_NAME} WHERE Username == '{username}'";
+        string delete = $"DELETE FROM {TABLE_NAME} WHERE username = '{username}'";
         Execute(delete);
     }
 }

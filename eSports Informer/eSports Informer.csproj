@@ -117,6 +117,7 @@
     <Content Include="Pages\Logout.aspx" />
     <Content Include="Pages\Poll.aspx" />
     <Content Include="Pages\Promotion.aspx" />
+    <Content Include="Pages\SearchUsers.aspx" />
     <Content Include="Scripts\Slideshow.js" />
     <Content Include="Scripts\TierListMaking.js" />
     <Content Include="Scripts\Registration.js" />
@@ -157,6 +158,13 @@
     </Compile>
     <Compile Include="Pages\Promotion.aspx.designer.cs">
       <DependentUpon>Promotion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SearchUsers.aspx.cs">
+      <DependentUpon>SearchUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\SearchUsers.aspx.designer.cs">
+      <DependentUpon>SearchUsers.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\SFIIITierList.aspx.cs">
       <DependentUpon>SFIIITierList.aspx</DependentUpon>

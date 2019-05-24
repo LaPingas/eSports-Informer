@@ -288,3 +288,4 @@ C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informe
 C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\obj\Debug\eSports Informer.pdb
 C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\System.Threading.Tasks.Dataflow.dll
 C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\bin\eSports Informer.dll.config
+C:\Users\Ariel L\Documents\לימודים\מדעי המחשב\Web\eSport Informer\eSports Informer\obj\Debug\eSports Informer.csprojAssemblyReference.cache
