@@ -233,7 +233,7 @@ public static class ADOHelper
 
         // Setting table header
         resultStr += "<table border='1' align='center' >";
-        resultStr += "<tr><th>Username</th><th>Password</th><th>Email</th><th>Gender</th><th>Region</th><th>Games</th><th>Admin</th><th>Delete?</th><th>Promote</th></tr>";
+        resultStr += "<tr><th>Username</th><th>Password</th><th>Email</th><th>Gender</th><th>Region</th><th>Games</th><th>Admin</th><th>Delete?</th><th>Promote</th><th>Unpromote</th></tr>";
 
         // Scanning all rows of the 1st table in the DataSet (Tables[0])
         for (int k = 0; k < ds.Tables[0].Rows.Count; k++)
@@ -252,7 +252,9 @@ public static class ADOHelper
             resultStr += "<td>" + row["isAdmin"] + "</td>";
             resultStr += "<td>" + $"<input type=\"checkbox\" name=\"delete\" value=\"{row["username"]}\" />" + "</td>";
             string value = ReadUserData(row["username"].ToString()).IsAdmin == "Yes" ? "checked disabled=\"disabled\"" : "";
+            string value2 = value == "checked disabled=\"disabled\"" ? "" : "checked disabled=\"disabled\"";
             resultStr += "<td>" + $"<input type=\"checkbox\" name=\"promote\" value=\"{row["username"]}\" {value} />" + "</td>";
+            resultStr += "<td>" + $"<input type=\"checkbox\" name=\"unpromote\" value=\"{row["username"]}\" {value2} />" + "</td>";
             resultStr += "</tr>";
         }
         resultStr += "</table>";

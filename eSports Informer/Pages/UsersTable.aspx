@@ -25,10 +25,6 @@
                         ADOHelper.Delete(user);
                     }
                 }
-                Response.Write("User(s) deleted. Refreshing");
-                Response.Write(ADOHelper.error);
-                System.Threading.Thread.Sleep(2000);
-                Response.Redirect("UsersTable.aspx");
             }
 
             string promoteUsersString = Request.Form["promote"];
@@ -44,6 +40,22 @@
                 }
                 Response.Write("User(s) promoted. Please refresh the page");
             }
+
+            string unpromoteUsersString = Request.Form["unpromote"];
+            if (unpromoteUsersString != null)
+            {
+                string[] unpromoteUsers = unpromoteUsersString.Split(',');
+                foreach (var user in unpromoteUsers)
+                {
+                    if (user != "")
+                    {
+                        ADOHelper.ReadUserData(user).Unpromotion();
+                    }
+                }
+                Response.Write("User(s) unpromoted. Please refresh the page");
+            }
+
+            Response.Redirect("UsersTable.aspx");
         }
     %>
 </asp:Content>
