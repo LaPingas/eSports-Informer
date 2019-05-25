@@ -10,6 +10,10 @@
     </form>
 
     <%
+        if (Session["user"] == null || ((User)Session["user"]).IsAdmin != "Yes")
+        {
+            Response.Redirect("Index.aspx");
+        }
         string username = "";
         if (Request.Form["submitSearch"] != null)
         {

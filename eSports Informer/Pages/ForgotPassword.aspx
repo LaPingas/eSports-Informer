@@ -10,9 +10,18 @@
 
         <%
             Response.Write(Session["incorrect"]);
+            if (Session["user"] != null)
+            {
+                Response.Redirect("Index.aspx");
+            }
             if (Request.Form["submit"] != null)
             {
                 string username = Request.Form["nickname"];
+                if (!ADOHelper.Exist(username))
+                {
+                    Session["incorrect"] = $"Incorrect username. Try again";
+                    Response.Redirect("ForgotPassword.aspx");
+                }
                 User user = ADOHelper.ReadUserData(username);
                 Session["incorrent"] = string.Empty;
 
@@ -22,7 +31,7 @@
                 }
                 else
                 {
-                    Session["incorrect"] = $"Incorrect username/played games. Try again";
+                    Session["incorrect"] = $"Incorrect played games. Try again";
                     Response.Redirect("ForgotPassword.aspx");
                 }
             }

@@ -8,6 +8,10 @@
     </form>
 
     <%
+        if (Session["username"] == null || ((User)Session["user"]).IsAdmin == "Yes")
+        {
+            Response.Redirect("Index.aspx");
+        }
         if (Request.Form["submit"] != null)
         {
             string answer = Request.Form["answer"];

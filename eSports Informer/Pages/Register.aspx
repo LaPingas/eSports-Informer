@@ -35,6 +35,10 @@
 
     <%
         Response.Write(Session["exists"]);
+        if (Session["user"] != null)
+        {
+            Response.Redirect("Index.aspx");
+        }
         if (Request.Form["submit"] != null)
         {
             string username = Request.Form["nickname"];

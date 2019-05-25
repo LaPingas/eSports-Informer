@@ -3,6 +3,10 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderId="body">
     <div style="text-align:center">
         <%
+            if (Session["username"] == null)
+            {
+                Response.Redirect("Index.aspx");
+            }
             Response.Write(ADOHelper.error);
             User user = (User)Session["user"];
             string gender = user.Gender == 0 ? "Male" : "Female";

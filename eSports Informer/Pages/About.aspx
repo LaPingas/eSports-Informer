@@ -42,7 +42,7 @@
             My name is Ariel Lapidus, I'm 16 years old from Ness Ziona, Israel.<br />
             I mostly play fighting games, such as Super Smash Bros. Melee (in short: SSBM) and Street Figher III: 3rd Strike, which are considered more "retro" titles but I find them really fun even today, and of course they have a community of their own.<br />
             My "mains" (a term used to say the characters/roles someone mainly plays in a certain games) are Fox, Marth and Falco in SSBM and Chun-Li (a female character!) in 3rd Strike.<br />
-            <img src="Images/SSBM_Poster.jpg" alt="SSBM Poster" width="560" height="315" /><br />
+            <img src="../Images/SSBM_Poster.jpg" alt="SSBM Poster" width="560" height="315" /><br />
             My favorite players are "Mang0" in SSBM and "MOV" in 3rd Strike, both which play characters that I use.<br />
             My favorite tournament set is Mang0 vs Leffen in Genesis 4, which had a really good drama going on (not to mention the games were insanely good).<br />
             <iframe width="560" height="315" src="https://www.youtube.com/embed/qIsTgPo71Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />

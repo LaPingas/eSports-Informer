@@ -19,6 +19,10 @@
     </form>
 
     <%
+        if (Session["username"] == null)
+        {
+            Response.Redirect("Index.aspx");
+        }
         Response.Write(Session["exists"]);
         if (Request.Form["submit"] != null)
         {

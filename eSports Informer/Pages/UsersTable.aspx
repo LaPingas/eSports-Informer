@@ -4,6 +4,10 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderId="body">
     <form runat="server">
         <%
+            if (Session["username"] == null || ((User)Session["user"]).IsAdmin != "Yes")
+            {
+                Response.Redirect("Index.aspx");
+            }
             Response.Write(ADOHelper.UsersTable());
         %>
         <div style="text-align:center">

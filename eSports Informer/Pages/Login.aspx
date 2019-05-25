@@ -11,6 +11,10 @@
 
         <%
             Response.Write(Session["logged"]);
+            if (Session["user"] != null)
+            {
+                Response.Redirect("Index.aspx");
+            }
             if (Request.Form["submit"] != null)
             {
                 if (ADOHelper.Authentication(Request.Form["nickname"], Request.Form["password"]))
