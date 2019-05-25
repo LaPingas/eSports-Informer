@@ -5,7 +5,7 @@
         <form runat="server">
         Password: <input type="password" name="password" id="password" /><br /><br />
         Gender: <input type="radio" name="gender" id="genderMale" value="male" />Male <input type="radio" name="gender" id="genderFemale" value="female" />Female<br />
-        Email: <input type="email" placeholder="someone@example.com" name="email" id="email" /><br />
+        Email: <input type="text" placeholder="someone@example.com" name="email" id="email" /><br />
         <input type="submit" name="submitSearch" />
     </form>
 

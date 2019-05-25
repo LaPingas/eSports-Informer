@@ -17,7 +17,7 @@
     %>
     </div>
     <%
-        Response.Write($"Total visits: {Application["visits"]}");
+        Response.Write($"Total visits: {Application["visits"]}<br />Users online: {Application["online"]}");
     %>
     <h2>Upcoming tournaments</h2>
     <p>

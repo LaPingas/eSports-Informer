@@ -5,7 +5,7 @@
     <form runat="server">
         What is your favorivte eSports genre?
         <select name="selection">
-            <option disabled="disabled">Select your answer</option>
+            <option disabled="disabled" selected="selected">Select your answer</option>
             <option value="0">FPS</option>
             <option value="1">Fighting games</option>
             <option value="2">Card Games</option>
@@ -18,14 +18,21 @@
     <%
         if (Request.Form["submit"] != null)
         {
-            int value = int.Parse(Request.Form["selection"]);
-            Response.Write($"Your selection was {value + 1} <br />");
+            if (Request.Form["selection"] != null)
+            {
+                int value = int.Parse(Request.Form["selection"]);
+                Response.Write($"Your selection was {value + 1} <br />");
 
-            int[] pollResults = (int[])Application["pollResults"];
-            pollResults[value]++;
-            Application["pollResults"] = pollResults;
+                int[] pollResults = (int[])Application["pollResults"];
+                pollResults[value]++;
+                Application["pollResults"] = pollResults;
 
-            Response.Write($"FPS: {pollResults[0]}, FGs: {pollResults[1]}, Card Games: {pollResults[2]}, MOBA: {pollResults[3]}, other: {pollResults[4]}");
+                Response.Write($"FPS: {pollResults[0]}, FGs: {pollResults[1]}, Card Games: {pollResults[2]}, MOBA: {pollResults[3]}, other: {pollResults[4]}");
+            }
+            else
+            {
+                Response.Write("Please select an option.");
+            }
         }
     %>
 </asp:Content>

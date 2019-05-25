@@ -18,11 +18,21 @@
                     Session["username"] = Request.Form["nickname"];
                     Session["logged"] = string.Empty;
                     Session["user"] = ADOHelper.ReadUserData(Session["username"].ToString());
+                    Session["failedAttempts"] = 0;
                     Response.Redirect("Index.aspx");
                 }
                 else
                 {
-                    Session["logged"] = $"Incorrect username/password. Try again";
+                    int failedAttempts = (int)Session["failedAttempts"];
+                    failedAttempts++;
+                    Session["failedAttempts"] = failedAttempts;
+                    Session["logged"] = $"Incorrect username/password. You've failed {failedAttempts} times. Try again.";
+                    if (failedAttempts >= 3)
+                    {
+                        Session["failedAttempts"] = 0;
+                        Session["logged"] = string.Empty;
+                        Response.Redirect("ForgotPassword.aspx");
+                    }
                     Response.Redirect("Login.aspx");
                 }
             }

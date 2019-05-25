@@ -251,7 +251,7 @@ public static class ADOHelper
             resultStr += "<td>" + row["games"].ToString().Replace(",", ", ") + "</td>";
             resultStr += "<td>" + row["isAdmin"] + "</td>";
             resultStr += "<td>" + $"<input type=\"checkbox\" name=\"delete\" value=\"{row["username"]}\" />" + "</td>";
-            string value = ReadUserData(row["username"].ToString()).IsAdmin == "Yes" ? "checked" : "";
+            string value = ReadUserData(row["username"].ToString()).IsAdmin == "Yes" ? "checked disabled=\"disabled\"" : "";
             resultStr += "<td>" + $"<input type=\"checkbox\" name=\"promote\" value=\"{row["username"]}\" {value} />" + "</td>";
             resultStr += "</tr>";
         }
@@ -310,7 +310,7 @@ public static class ADOHelper
             string update = $"UPDATE {TABLE_NAME} SET email = '{email}' WHERE Username = '{user.Username}'";
             Execute(update);
         }
-        if (region != "")
+        if (region != null)
         {
             // The SQL command
             string update = $"UPDATE {TABLE_NAME} SET region = '{region}' WHERE Username = '{user.Username}'";

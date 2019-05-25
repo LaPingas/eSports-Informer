@@ -15,10 +15,10 @@
         <div id="confirmPasswordErr"></div><br /><br />
         Gender: <input type="radio" name="gender" id="genderMale" value="male" />Male <input type="radio" name="gender" id="genderFemale" value="female" />Female
         <div id="genderErr"></div><br /><br />
-        Email: <input type="email" placeholder="someone@example.com" name="email" id="email" onfocus="clearErr('emailErr')" onkeypress="checkEmail()" />
+        Email: <input type="text" placeholder="someone@example.com" name="email" id="email" onfocus="clearErr('emailErr')" onkeypress="checkEmail()" />
         <div id="emailErr"></div><br /><br />
         Region: <select name="region" id="region">
-            <option disabled="disabled">Select your region</option>
+            <option disabled="disabled" selected="selected">Select your region</option>
             <option value="NA">North-America</option>
             <option value="SA">South-America</option>
             <option value="EU">Europe</option>

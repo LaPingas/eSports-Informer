@@ -23,12 +23,12 @@
                     if (user != "")
                     {
                         ADOHelper.Delete(user);
-                        Response.Write("User(s) deleted. Refreshing");
-                        Response.Write(ADOHelper.error);
-                        System.Threading.Thread.Sleep(2000);
-                        Response.Redirect("UsersTable.aspx");
                     }
                 }
+                Response.Write("User(s) deleted. Refreshing");
+                Response.Write(ADOHelper.error);
+                System.Threading.Thread.Sleep(2000);
+                Response.Redirect("UsersTable.aspx");
             }
 
             string promoteUsersString = Request.Form["promote"];

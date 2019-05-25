@@ -6,9 +6,9 @@
     <form onsubmit="return true" method="post" runat="server">
         Password: <input type="password" name="password" id="password" /><br />
         Gender: <input type="radio" name="gender" id="genderMale" value="male" />Male <input type="radio" name="gender" id="genderFemale" value="female" />Female <br />
-        Email: <input type="email" placeholder="someone@example.com" name="email" id="email" /> <br />
+        Email: <input type="text" placeholder="someone@example.com" name="email" id="email" /> <br />
         Region: <select name="region" id="region">
-            <option disabled="disabled">Select your region</option>
+            <option disabled="disabled" selected="selected">Select your region</option>
             <option value="NA">North-America</option>
             <option value="SA">South-America</option>
             <option value="EU">Europe</option>
@@ -25,7 +25,7 @@
             string password = Request.Form["password"];
             string email = Request.Form["email"];
             string region = Request.Form["region"];
-            int gender = Request.Form["gender"] == "male" ? 0 : 1;
+            int gender = Request.Form["gender"] == "male" ? 0 : Request.Form["gender"] == "male" ? 1 : -1;
             ADOHelper.Update((User)Session["user"], password, email, gender, region);
             Session["user"] = ADOHelper.ReadUserData(Session["username"].ToString());
             Response.Redirect("UserInfo.aspx");
